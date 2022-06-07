@@ -1,8 +1,9 @@
 Arsentiy Fokin
 ==============
 
+**Contact Information**  
 puncheglaz@gmail.com  
-@Puncheglaz  
+Github: @Puncheglaz  
 Saint Petersburg, Russia
 
 Education
