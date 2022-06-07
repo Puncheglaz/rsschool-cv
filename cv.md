@@ -27,6 +27,12 @@ Skills
 * Flutter
 * Transact-SQL
 
+**IDEs**
+* Visual Studio
+* PyCharm
+* IntelliJ IDEA
+* Android Studio
+
 **DBMSs**
 * MS SQL
 * PostgreSQL
